@@ -1,0 +1,11 @@
+Make,Model,Year,Engine Fuel Type,Engine HP,Engine Cylinders,Transmission Type,Driven_Wheels,Number of Doors,Market Category,Vehicle Size,Vehicle Style,highway MPG,city mpg,Popularity,MSRP
+BMW,1 Series,2011,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,19,3916,40650
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,35,26,819,27495
+Mercedes-Benz,190-Class,1991,regular unleaded,130,4,MANUAL,rear wheel drive,4,Luxury,Compact,Sedan,26,18,617,2000
+BMW,2 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,35,23,3916,32850
+Audi,200,1990,regular unleaded,162,5,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,20,16,3105,2000
+Chrysler,200,2015,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,25170
+Nissan,200SX,1996,regular unleaded,115,4,MANUAL,front wheel drive,2,N/A,Compact,Coupe,36,26,2009,2000
+Volvo,240,1991,regular unleaded,114,4,MANUAL,rear wheel drive,4,Luxury,Midsize,Wagon,26,19,870,2000
+Mazda,2,2012,regular unleaded,100,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,29,586,16020
